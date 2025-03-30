@@ -1,14 +1,16 @@
 # Hello, I'm Dhruv Rawat 👋
 
-Welcome to my GitHub! I'm a passionate developer and a tech enthusiast with a love for coding and creating innovative solutions. 🚀
+Welcome to my GitHub! I'm a passionate developer and tech enthusiast with a love for coding and creating innovative solutions. 🚀
 
 ## About Me
 
-- 🖥️ **Current Focus**: Flutter, MERN, Next.js, PHP, Machine Learning, AI, and Cybersecurity
+- 🖥️ **Current Focus**: Flutter, MERN, Next.js, PHP, Machine Learning (ML), Artificial Intelligence (AI), and Cybersecurity
 - 🎓 **Education**: B.Tech 1st Year
 - 🌍 **Location**: Dehradun, India
 - 📧 **Contact**: [dhruvrwt12@gmail.com](mailto:dhruvrwt12@gmail.com)
-- 💻 **GitHub**: [BunnyHAWPer](https://github.com/BunnyHAWPer) [itsdhruvrawat](https://github.com/itsdhruvrawat)
+- 💻 **GitHub Profiles**:  
+  - [**itsdhruvrawat**](https://github.com/itsdhruvrawat) – Primary account for my projects and contributions.  
+  - [**bunnyhawper**](https://github.com/bunnyhawper) – My secondary account, focused on experimental and side projects.
 
 ## 🚀 Skills
 
@@ -35,12 +37,13 @@ Welcome to my GitHub! I'm a passionate developer and a tech enthusiast with a lo
 
 ## 🌱 I’m Currently Learning
 
-- Advanced concepts in **Machine Learning** & **AI**.
-- Enhancing my knowledge in **Cybersecurity** and ethical hacking.
+- **Machine Learning (ML)**: Dive deep into algorithms, models, and data analysis.
+- **Artificial Intelligence (AI)**: Exploring various AI techniques to build intelligent systems.
+- **Cybersecurity**: Building and testing custom security tools to improve privacy and defense mechanisms.
 
 ## 💬 Let’s Connect!
 
-Feel free to reach out if you’re into coding, machine learning, AI, or cybersecurity. Let's collaborate and make cool projects together! 😄
+Feel free to reach out if you’re into coding, machine learning, AI, or cybersecurity. Let’s collaborate and make cool projects together! 😄
 
 ---
 
