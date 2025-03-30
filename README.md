@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate developer and a tech enthusiast with a lo
 - 🎓 **Education**: B.Tech 1st Year
 - 🌍 **Location**: Dehradun, India
 - 📧 **Contact**: [dhruvrwt12@gmail.com](mailto:dhruvrwt12@gmail.com)
-- 💻 **GitHub**: [BunnyHAWPer](https://github.com/BunnyHAWPer)[itsdhruvrawat](https://github.com/itsdhruvrawat)
+- 💻 **GitHub**: [BunnyHAWPer](https://github.com/BunnyHAWPer) [itsdhruvrawat](https://github.com/itsdhruvrawat)
 
 ## 🚀 Skills
 
