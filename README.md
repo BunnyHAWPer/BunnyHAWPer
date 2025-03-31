@@ -44,7 +44,7 @@ Welcome to my GitHub! I'm a 19-year-old first-year B.Tech student, a coding enth
 
 ## 👨‍💻 Creator of **Expressify**
 
-I'm also the creator of **Expressify**, a lightweight Node.js framework that helps developers build scalable and fast RESTful APIs. It’s my way of giving back to the dev community while simplifying the process of API development. Check it out on GitHub! 🌟
+I'm the creator of **Expressify**, a Python framework inspired by Express.js that helps developers build scalable and fast RESTful APIs. It combines the simplicity of Express.js with Python's power to make API development faster and more efficient. Check it out at [express-ify.netlify.app](http://express-ify.netlify.app) 🌟
 
 ## 🌐 Social Media & Profiles
 
@@ -57,5 +57,3 @@ Let’s stay connected! You can find me on the following platforms:
 ## 💬 Let's Connect!
 
 If you’re passionate about coding, machine learning, AI, or cybersecurity, let’s chat! I'm always up for collaborating and creating cool projects together. 😄
-
----
