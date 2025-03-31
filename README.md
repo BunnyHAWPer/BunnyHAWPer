@@ -50,10 +50,9 @@ I'm also the creator of **Expressify**, a lightweight Node.js framework that hel
 
 Let’s stay connected! You can find me on the following platforms:  
 - **GitHub**: [@itsdhruvrawat](https://github.com/itsdhruvrawat)  
-- **LinkedIn**: [Dhruv Rawat](https://www.linkedin.com/in/dhruvrawat/)  
-- **npm**: [@dhruvrawat](https://www.npmjs.com/~dhruvrawat)  
+- **LinkedIn**: [Dhruv Rawat](https://www.linkedin.com/in/dhruv-rawat-3a43b92b8/)  
+- **npm**: [@dhruvrawat](https://www.npmjs.com/~dhruv-rawat)  
 - **PyPi**: [Dhruv Rawat](https://pypi.org/user/dhruvrawat/)  
-- **Pub.dev**: [@dhruvrawat](https://pub.dev/packages?search=dhruvrawat)  
 
 ## 💬 Let's Connect!
 
